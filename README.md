@@ -16,6 +16,12 @@ $ ping -c 1 reality
 status: coffee low, oscilloscope on, code compiling.
 ```
 
+<p align="left">
+  <a href="https://kong522.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/⚡_Live_Workbench_%26_Interactive_Oscilloscope-Visit_Webpage-238636?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Page" />
+  </a>
+</p>
+
 ---
 
 ```c

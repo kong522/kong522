@@ -16,7 +16,7 @@ int main(void) {
 ---
 
 #### 📌 Focus & Interests
-- 嵌入式与硬件折腾：STM32、传感器、光学测量 / 干涉计数
+- 嵌入式与硬件折腾：STM32、传感器、光学测量
 - 信号与图像处理：DSP、OpenCV
 - 实用工具与日常全栈开发：C/C++、Python、Web
 

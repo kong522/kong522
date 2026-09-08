@@ -1,26 +1,17 @@
-### hey, I'm kong522 👋
+### kong522
 
 > *Quiet colors, steady forward.*
 
 ```
-$ whoami
-kong522 (SkyFD)
-
 $ cat interests.txt
 - STM32, sensors & optical measurement
 - DSP & OpenCV
-- building useful tools with C/C++ & Python
+- building tools with C/C++ & Python
 
 $ ping -c 1 reality
 64 bytes from universe: icmp_seq=1 ttl=42 time=0.038 ms
 status: coffee low, oscilloscope on, code compiling.
 ```
-
-<p align="left">
-  <a href="https://kong522.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/⚡_Live_Workbench_%26_Interactive_Oscilloscope-Visit_Webpage-238636?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Page" />
-  </a>
-</p>
 
 ---
 
@@ -35,7 +26,7 @@ while (alive) {
 
 ---
 
-#### 🛠️ stack
+#### stack
 - **firmware & hardware:** STM32, Keil, KiCad, Altium Designer
 - **code & scripting:** C, C++, Python, Shell, JavaScript
 - **environment:** Linux, Git, Neovim / VS Code
